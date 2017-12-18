@@ -10,25 +10,13 @@ Element 是一套 Vue.js 后台组件库，它能够帮助你更轻松更快速�
 [项目主页](http://element.eleme.io/)
 
 
-### Header 3
+### 前端代码规范
+搜集并整理了市面上比较流行和规范的文档，形成小组规范。
 
-- Bulleted
-- List
+[文档地址](https://github.com/SSETeam/guide/blob/master/%E5%89%8D%E7%AB%AF%E4%BB%A3%E7%A0%81%E8%A7%84%E8%8C%83.docx)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### 前端项目Seed及目录规范
+以Vue.js为基础的项目脚手架，快速搭建项目。
+[项目主页](https://github.com/SSETeam/sse_vue)
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SSETeam/guide/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
