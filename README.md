@@ -1,18 +1,15 @@
-## Welcome to GitHub Pages
+## 上交所前端组资料
 
-You can use the [editor on GitHub](https://github.com/SSETeam/guide/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+我们整理了并发布了前端代码规范，组件库，组件库模版等，本页面作为前端资源导引。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 前端组件库 elementUI
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Element 是一套 Vue.js 后台组件库，它能够帮助你更轻松更快速地开发后台项目。
 
-```markdown
-Syntax highlighted code block
+[项目主页](http://element.eleme.io/)
 
-# Header 1
-## Header 2
+
 ### Header 3
 
 - Bulleted
